@@ -1,4 +1,6 @@
 ## This is my first WoTech file
+
+```Life is like a jigsaw puzzle—sometimes the pieces fit perfectly, and other times, we're left scratching our heads. But hey, even the odd-shaped pieces add character to the whole picture. So, let's embrace the chaos, enjoy the challenge, and remember that the best stories often come from the pieces that don't quite fit.```
 ___
 # My hobbies
 * ### Hiking
@@ -33,5 +35,4 @@ ___
 >>__"It does not matter how slowly you go as long as you do not stop."__ - Confucius
 >>>__"I'm not arguing, I'm just explaining why I'm right.__"
 
-```
-Life is like a jigsaw puzzle—sometimes the pieces fit perfectly, and other times, we're left scratching our heads. But hey, even the odd-shaped pieces add character to the whole picture. So, let's embrace the chaos, enjoy the challenge, and remember that the best stories often come from the pieces that don't quite fit.```
+
